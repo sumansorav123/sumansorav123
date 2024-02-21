@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gi)
+[![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 <h1 align="center">Hi 👋, I'm suman sorav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align = "right" alt="Coding" width"400" controls autoplay  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2k4bHBmanRjZHVmMWdyNmdlOWlpb3llZXNhcng3aGtiaDN0dmx5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" </img>
